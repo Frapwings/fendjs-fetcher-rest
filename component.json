@@ -1,0 +1,21 @@
+{
+  "name": "fendjs-fetcher-rest",
+  "version": "0.0.0",
+  "description": "RESTful fetcher plugin for Fend.js model",
+  "repo": "Frapwings/fendjs-fetcher-rest",
+  "license": "MIT"
+  "keywords": [
+    "fendjs",
+    "isomorphic",
+    "model",
+    "db",
+    "database"
+  ],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "scripts": [
+  ],
+  "main": "index.js",
+}
