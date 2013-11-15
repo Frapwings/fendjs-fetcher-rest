@@ -1,15 +1,15 @@
 {
-  "name": "fendjs-fetcher-rest",
+  "name": "fendjs-model-restful",
   "version": "0.0.0",
-  "description": "RESTful fetcher plugin for Fend.js model",
+  "description": "RESTful model plugin for Fend.js model",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Frapwings/fendjs-fetcher-rest.git"
+    "url": "git://github.com/Frapwings/fendjs-model-restful.git"
   },
   "author": "kazupon (kazuya kawaguchi) <k.kawaguchi@frapwings.jp>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Frapwings/fendjs-fetcher-rest/issues"
+    "url": "https://github.com/Frapwings/fendjs-model-restful/issues"
   },
   "keywords": [
     "fendjs",

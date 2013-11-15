@@ -1,8 +1,8 @@
-# fendjs-fetcher-rest
+# fendjs-model-restful
 
-[![Build Status](https://travis-ci.org/Frapwings/fendjs-fetcher-rest.png?branch=master)](https://travis-ci.org/Frapwings/fendjs-fetcher-rest)
+[![Build Status](https://travis-ci.org/Frapwings/fendjs-model-restful.png?branch=master)](https://travis-ci.org/Frapwings/fendjs-model-restful)
 
-RSTful fetcher plugin for Fend.js model
+RESTful model plugin for Fend.js model
 
 # Usage
 
@@ -22,3 +22,6 @@ $ make test-phantomjs
 [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
 See the `LICENSE`.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Frapwings/fendjs-fetcher-rest/trend.png)](https://bitdeli.com/free "Bitdeli Badge")

@@ -1,7 +1,7 @@
 var Modeler = require('fendjs-model');
 var assert = require('assert');
 var request = require('superagent');
-var RESTfulable = require('fendjs-fetcher-rest');
+var RESTfulable = require('fendjs-model-restful');
 
 Modeler.use(RESTfulable());
 
