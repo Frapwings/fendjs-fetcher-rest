@@ -1,5 +1,7 @@
 # fendjs-fetcher-rest
 
+[![Build Status](https://travis-ci.org/Frapwings/fendjs-fetcher-rest.png?branch=master)](https://travis-ci.org/Frapwings/fendjs-fetcher-rest)
+
 RSTful fetcher plugin for Fend.js model
 
 # Usage

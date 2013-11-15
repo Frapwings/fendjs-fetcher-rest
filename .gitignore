@@ -1,4 +1,6 @@
 node_modules
 components
 *.swp
+test/build.js
+test/pid.txt
 .DS_Store

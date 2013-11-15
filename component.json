@@ -3,19 +3,27 @@
   "version": "0.0.0",
   "description": "RESTful fetcher plugin for Fend.js model",
   "repo": "Frapwings/fendjs-fetcher-rest",
-  "license": "MIT"
+  "license": "MIT",
   "keywords": [
     "fendjs",
-    "isomorphic",
     "model",
-    "db",
-    "database"
+    "collection",
+    "RESTful"
   ],
   "dependencies": {
+    "Frapwings/fendjs-collection": "*",
+    "visionmedia/superagent": "0.15.1"
   },
   "development": {
+    "component/assert": "*",
+    "Frapwings/fendjs-model": "*"
   },
   "scripts": [
+    "lib/fetcher.js",
+    "lib/static.js",
+    "lib/proto.js",
+    "index.js"
   ],
   "main": "index.js",
+  "remotes": []
 }
