@@ -1,6 +1,6 @@
 {
   "name": "fendjs-model-restful",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "RESTful model plugin for Fend.js model",
   "repo": "Frapwings/fendjs-model-restful",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "fendjs-model-restful",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "RESTful model plugin for Fend.js model",
   "repository": {
     "type": "git",
@@ -29,7 +29,7 @@
   },
   "main": "./lib/index.js",
   "scripts": {
-    "test": "make test-phantomjs"
+    "test": "make test-coveralls"
   },
   "engines": {
     "node": ">= 0.10.0"
