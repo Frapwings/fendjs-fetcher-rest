@@ -1,6 +1,6 @@
 # fendjs-model-restful
 
-[![Build Status](https://travis-ci.org/Frapwings/fendjs-model-restful.png?branch=master)](https://travis-ci.org/Frapwings/fendjs-model-restful)
+[![Build Status](https://travis-ci.org/Frapwings/fendjs-model-restful.png?branch=master)](https://travis-ci.org/Frapwings/fendjs-model-restful) [![Coverage Status](https://coveralls.io/repos/Frapwings/fendjs-model-restful/badge.png)](https://coveralls.io/r/Frapwings/fendjs-model-restful) [![NPM version](https://badge.fury.io/js/fendjs-model-restful.png)](http://badge.fury.io/js/fendjs-model-restful) [![Dependency Status](https://david-dm.org/Frapwings/fendjs-model-restful.png)](https://david-dm.org/Frapwings/fendjs-model-restful)
 
 RESTful model plugin for Fend.js model
 
