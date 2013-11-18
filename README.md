@@ -82,7 +82,7 @@ user.url('edit');
 
 ```
 $ npm install
-$ make test-phantomjs
+$ make test
 ```
 
 # License

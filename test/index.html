@@ -3,16 +3,12 @@
     <title>fendjs-model tests</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" href="./mocha.css" />
-    <script src="./mocha.js"></script>
-    <script src="./build.js"></script>
   </head>
   <body>
     <div id="mocha"></div>
-    <script>
-      mocha.setup('bdd');
-      mocha.ui('bdd');
-      mocha.reporter('html');
-    </script>
+    <script src="./mocha.js"></script>
+    <script src="./build.js"></script>
+    <script>mocha.setup('bdd');</script>
     <script src="./proto.js"></script>
     <script src="./static.js"></script>
     <script>

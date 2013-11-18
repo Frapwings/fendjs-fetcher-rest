@@ -22,8 +22,8 @@
     "lib/fetcher.js",
     "lib/static.js",
     "lib/proto.js",
-    "index.js"
+    "lib/index.js"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "remotes": []
 }
