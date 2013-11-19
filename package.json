@@ -1,6 +1,6 @@
 {
   "name": "fendjs-model-restful",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RESTful model plugin for Fend.js model",
   "repository": {
     "type": "git",
@@ -24,8 +24,8 @@
     "component-jscoverage": "~0.1.0",
     "mocha": "~1.14.0",
     "mocha-phantomjs": "~3.1.5",
-    "json2lcov": "git://github.com/holyshared/json2lcov",
-    "coveralls": "~2.3.0"
+    "coveralls": "~2.3.0",
+    "json2lcov": "~0.1.0"
   },
   "main": "./lib/index.js",
   "scripts": {

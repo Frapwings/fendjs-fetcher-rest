@@ -20,6 +20,6 @@ test-coveralls: build
 
 clean:
 	@rm -fr ./build ./components
-	@rm ./test/build.js
+	@rm -f ./test/build.js
 
 .PHONY: clean test test-coveralls
