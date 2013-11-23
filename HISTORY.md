@@ -1,3 +1,7 @@
+# v0.1.2 / 2013-11-24
+
+* Modified fetcher setup
+
 # v0.1.1 / 2013-11-20
 
 * Change json2lcov dependency
